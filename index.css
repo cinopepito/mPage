@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  background: url(images/pic1.jpeg) center fixed no-repeat;
+  background-size: cover;
+}
+p {
+  margin: 0;
+}
+.logo {
+  display: inline-block;
+}
+header h2 {
+  display: inline-block;
+  font-size: 15px;
+  color: brown;
+}
+.banner > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+.conteneur {
+  width: 80%;
+  margin: 0 auto;
+}
+section {
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  background: #fff;
+}
+.pied {
+  margin-top: 10px;
+  font-style: italic;
+}
